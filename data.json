@@ -1,0 +1,14 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "status": "awaiting",
+      "winner": null
+    },
+    {
+      "id": 2,
+      "status": "played",
+      "winner": "Arsenal FC",
+    }
+  ]
+}

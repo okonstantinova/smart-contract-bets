@@ -1,18 +1,16 @@
 {
-  "data": {
-    "events": [
-      {
-        "id": 0,
-        "date": "2023-12-12",
-        "description": "Football: Chelsy & Arsenal",
-        "winner": 1
-      },
-      {
-        "id": 1,
-        "date": "2024-01-07",
-        "description": "Hockey: Avangard Omsk & Ak Bars Kazan",
-        "winner": 0
-      }
-    ]
-  }  
+  "events": [
+    {
+      "id": 0,
+      "date": "2023-12-12",
+      "description": "Football: Chelsy & Arsenal",
+      "winner": 1
+    },
+    {
+      "id": 1,
+      "date": "2024-01-07",
+      "description": "Hockey: Avangard Omsk & Ak Bars Kazan",
+      "winner": 0
+    }
+  ]
 }
